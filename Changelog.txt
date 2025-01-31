@@ -1,0 +1,44 @@
+Changed all ID to titles
+added button menu
+(Fixed)TEMP changed color of background and backpack - hard to see
+made some lore choices impossible to select
+Added random sex
+deleted human race
+reworked requirement of races + added them to group
+reworked destiny tab, now can spend SD correctly
+(Fixed) TEMP deleted force choices from destiny tab
+changed synergy to addons, removed SD cost
+nerfed some dls synergy, too OP or already exist.
+added human requirement to Surprise(no race change)
+Created trial group, updated schools functions
+Removed 'Sign" from descriptions of magic signs.
+removed 0 scores from schools an academies, updated requirements.
+Added a little lore to magic in mage section.
+fixed empowered second element, also fixed prices on empower
+fixed costs for biomancy
+Removed words "Skill" and "Knowledge" from choices and split it into 2 sections
+Changed Skills from second score to discount type in schools
+Combined mutants, mutagens and contracts section - too much scrolling
+made mutants impossible to select
+updated all requirements and ID on mutagens and contracts
+created two point types - to regulate mutagens use and spendings on contracts.
+added invisible score to each mutagens(one M per choice), added 5 M to Mutant destiny
+Added contact scores to contracts
+regulated rewards
+Added synergy addons to MUTAGENS and CONTRACTS
+added images
+Changed color of choice background and background
+Changed button to add image, art constantly slip.
+Added griffin school bonus
+changed opacity of filter
+deleted trial group and requirement to upgrades. Trials now just for lore
+added first kill to final trial + free contract.
+Created Points to limit signs upgrades.
+Added more signs for DS
+Added quote marks
+Lowered case< too loud
+Minor grammar and logic fixes
+reward: magic artefact mechanic through allowed choices -didn't work, so deleted it all
+fixed double text from demon on ghouls - in original cyoa too
+Added some addon to soul body
+
